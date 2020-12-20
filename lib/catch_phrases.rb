@@ -1,3 +1,9 @@
+def all_phrases 
+phrase = "puts out all of the previous catch phrases"
+puts phrase
+end
+all_phrases
+
 def mario
  phrase = "It's-a me, Mario!"
  puts phrase
@@ -16,8 +22,4 @@ def link
 end
 link 
 
-def all_phrases 
-phrase = "puts out all of the previous catch phrases"
-puts phrase
-end
-all_phrases
+
