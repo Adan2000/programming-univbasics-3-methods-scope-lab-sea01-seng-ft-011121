@@ -1,7 +1,6 @@
 def all_phrases 
 phrase = "puts out all of the previous catch phrases"
 puts phrase
-end
 all_phrases
 
 def mario
