@@ -1,7 +1,5 @@
 def all_phrases 
 
-
-
 def mario
  phrase = "It's-a me, Mario!"
  puts phrase
