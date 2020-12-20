@@ -17,6 +17,6 @@ end
 link 
 
 def all_phrases 
-
+phrase = 
 end
 
