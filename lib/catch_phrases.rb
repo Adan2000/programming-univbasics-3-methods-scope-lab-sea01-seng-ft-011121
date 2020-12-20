@@ -1,7 +1,7 @@
 def all_phrases 
 phrase = "puts out all of the previous catch phrases"
 puts phrase
-all_phrases
+
 
 def mario
  phrase = "It's-a me, Mario!"
@@ -21,4 +21,6 @@ def link
 end
 link 
 
+end 
+all_phrases
 
